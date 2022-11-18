@@ -12,7 +12,7 @@ cta:
 widget_id: test
 headless: true
 weight: 10
-title: 深圳高级中学（集团）北校区 信竞社团
+title: 北校信竞社团欢迎您！
 cta_alt:
   ? url
   ? label
@@ -22,6 +22,7 @@ design:
     gradient_start: rgb(224,223,255)
     gradient_end: rgb(153,238,255)
     text_color_light: false
+    image: teacher.png
 hero_media: teacher.png
 ---
 
