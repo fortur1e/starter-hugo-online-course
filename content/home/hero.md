@@ -12,7 +12,7 @@ cta:
 widget_id: test
 headless: true
 weight: 10
-title: 深圳高级中学（集团）北校区信竞社团
+title: 深圳高级中学（集团）北校区 信竞社团
 cta_alt:
   ? url
   ? label
